@@ -6,7 +6,9 @@ import './api/axiosDefaults.js';
 import SignUpForm from "./pages/auth/SignUpForm.js";
 import SignInForm from "./pages/auth/SignInForm.js";
 
+
 function App() {
+
   return (
     <div className={styles.App}>
       <NavBar />
